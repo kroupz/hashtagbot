@@ -38,4 +38,4 @@ Este projeto está licenciado sob a licença **MPL 2.0**.
 
 ---
 
-Feito com 💖 por **Gustavo Lima** 👋
+Feito com 💖 por **KallelGaNewk** 👋
