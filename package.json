@@ -16,7 +16,7 @@
   },
   "homepage": "https://github.com/kjkGustavo/hashrt",
   "keywords": ["bot", "twitter", "retweet"],
-  "author": "kjkGustavo",
+  "author": "KallelGaNewk",
   "license": "MPL-2.0",
   "devDependencies": {
     "nodemon": "^2.0.2"
